@@ -1,0 +1,7 @@
+C:\Users\du_do\source\repos\Series\Series\bin\Debug\Series.exe.config
+C:\Users\du_do\source\repos\Series\Series\bin\Debug\Series.exe
+C:\Users\du_do\source\repos\Series\Series\bin\Debug\Series.pdb
+C:\Users\du_do\source\repos\Series\Series\obj\Debug\Series.csproj.AssemblyReference.cache
+C:\Users\du_do\source\repos\Series\Series\obj\Debug\Series.csproj.CoreCompileInputs.cache
+C:\Users\du_do\source\repos\Series\Series\obj\Debug\Series.exe
+C:\Users\du_do\source\repos\Series\Series\obj\Debug\Series.pdb
